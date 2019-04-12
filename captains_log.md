@@ -3,4 +3,4 @@ technical writing is a way to describe a procedure to someone with the assmption
 It alings pretty well with the reading.it explains that the writing should be for the reader to understand.
 i noticed that it uses easy to follow, short instructions. with pictures, bullet points, and examples.the writing provides questions that the reader might have, and explains what pourpose of the task is. there are many pictures that explain visually where you should be in the project.
 the audience for the progamming historian would be people who have an interest in a specific field of reasearch and would like to understand the reaserch being done. piercehacker is designed for readers who dont know how to use a specific program or a technology. to explain reasearch topics through technical writing. to help eople through proplems they might be having wiyth technology through toutorial. so that the help or information can be easily acessesd by anyone who needs to get their projects done without wasting too much time.
-i learned the importnce of public websites and how to prototype ideas.
+i learned the importance of public websites and how to prototype ideas.
