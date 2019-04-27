@@ -12,3 +12,8 @@ I decided to use a picture for each instruction so that if thaere was any confus
 an audience that could eaisily interpert the instuctions. mabey an audience with average lego experience, but not expert level. so mabey 12ish and up. i thought it would be a good idea to condense the ideas as much as possible to keep them from being overcomplicated. 
 i delivered my instuctions via powerpoint. there was one major factor that motivated the choice. it was efficiency. powerpoint made it so that i could have one slide per mini build. none of them overlap.it got me to the understandin that efficiency is  a very important tool in technical writing. no unecessary fluff.
 i learned how to effectivly turn ideas into understandable, interpertable instructions.
+
+
+week3
+thinking of an original question that was valid. it makes me understand that anything unecessary in a question just add to any confusion.
+people who are struggleling with use ful technology. to help those people.so that the people who need the help can easily access it as quickly as possible.
