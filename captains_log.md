@@ -17,3 +17,6 @@ i learned how to effectivly turn ideas into understandable, interpertable instru
 week3
 thinking of an original question that was valid. it makes me understand that anything unecessary in a question just add to any confusion.
 people who are struggleling with use ful technology. to help those people.so that the people who need the help can easily access it as quickly as possible.
+
+
+
