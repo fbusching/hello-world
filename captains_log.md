@@ -20,3 +20,13 @@ people who are struggleling with use ful technology. to help those people.so tha
 
 
 
+week4
+
+
+week5
+the process i went though on my report was mostly mark and i looking at examples and useing on our reports. we went different directions, of course, but we had the same inspirations. he used a diferent format for his title page, among other things
+some challenges i went through were mostly formatting problems. it took me a while to figure out how to transfer images from the survey into my report.
+i got good feed back. the only feed back i got the could help me twoards finishng it was how i cou;ld fix up my table of contents.
+i will finish up the main body of the report and ut the finishing touches on the format.
+i learned some new tools in word, how to better interperate survey data, and the importance of colleboration.
+
