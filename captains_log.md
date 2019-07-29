@@ -1,4 +1,4 @@
-##Week1
+##Week1##
 my name is Forrest Busching and i am a student majoring in physic.
 technical writing is a way to describe a procedure to someone with the assmption that they are new to what you are writing about.
 It alings pretty well with the reading.it explains that the writing should be for the reader to understand.
