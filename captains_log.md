@@ -1,4 +1,4 @@
-Week1
+##Week1
 my name is Forrest Busching and i am a student majoring in physic.
 technical writing is a way to describe a procedure to someone with the assmption that they are new to what you are writing about.
 It alings pretty well with the reading.it explains that the writing should be for the reader to understand.
@@ -7,23 +7,23 @@ the audience for the progamming historian would be people who have an interest i
 i learned the importance of public websites and how to prototype ideas.
 
 
-Week2 
+##Week2 
 I decided to use a picture for each instruction so that if thaere was any confusion, it would quickly be eleviated. some ofthe pictures requiered weird angles to show what the instuctions are saying.the instuctions themselvese are pretty straightforward. it was very simpleto write the instuctions , not only because i seperated them for each different sub build, but because i knew the names of the little pieces and how they fit together.  
 an audience that could eaisily interpert the instuctions. mabey an audience with average lego experience, but not expert level. so mabey 12ish and up. i thought it would be a good idea to condense the ideas as much as possible to keep them from being overcomplicated. 
 i delivered my instuctions via powerpoint. there was one major factor that motivated the choice. it was efficiency. powerpoint made it so that i could have one slide per mini build. none of them overlap.it got me to the understandin that efficiency is  a very important tool in technical writing. no unecessary fluff.
 i learned how to effectivly turn ideas into understandable, interpertable instructions.
 
 
-week3
+##week3
 thinking of an original question that was valid. it makes me understand that anything unecessary in a question just add to any confusion.
 people who are struggleling with use ful technology. to help those people.so that the people who need the help can easily access it as quickly as possible.
 
 
 
-week4
+##week4
 
 
-week5
+##week5
 the process i went though on my report was mostly mark and i looking at examples and useing on our reports. we went different directions, of course, but we had the same inspirations. he used a diferent format for his title page, among other things
 some challenges i went through were mostly formatting problems. it took me a while to figure out how to transfer images from the survey into my report.
 i got good feed back. the only feed back i got the could help me twoards finishng it was how i cou;ld fix up my table of contents.
